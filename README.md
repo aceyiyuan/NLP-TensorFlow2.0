@@ -9,3 +9,5 @@ Pre-processing Text
   - Stemming (meet, meeting,met==>meet)
   
 Convert tokenized documents to a document-term matrix (from which document has what words==>what words are occuring in whcih document)
+
+Build LDA models on doc-term matrix
