@@ -1,6 +1,7 @@
 # NLP-TensorFlow2.0
 
 Part LDA (packages gensim, Ida)
+
 Pre-processing Text
 
   - Tokenize, normalize(lowercase)
